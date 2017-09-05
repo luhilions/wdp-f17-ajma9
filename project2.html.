@@ -4,11 +4,39 @@
 
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-    <title>Page Title Goes Here</title>
+    <title>My First Web Page</title>
   </head>
+<hr>
 
   <body>
     <!--  Page content goes here -->
+    <h1> Hello World!</h1>
+      <h2> A Place I Would Like to Visit.</h2>
+    <p> I would absolutly love to visit Australia. I have already visited it with the Colorado Childrens Choral in my eighth grade year but I felt as if it wasn't enough time to see all that I wanted to see. 
+      It's such a peicful place where you rarely see mean face. I love to see their different culture and the way they view things differently then Americans.</p>
+      <h2> A person I admired. </h1>
+      <br>
+    <p> A person I truly admired was my great Uncle. He was a retired U.S. Army Sergeant. He always had little things that was helpful information like how to fold your socks to save more room in your suitecase and different methods to cooking a biscut. 
+      He was probably the most respectful and respected man that I have ever known and I always have admired him. </p>
+    <h2> Favorite Fruits</h2>
+        <ul>
+          <li> Watermelon </li>
+          <li> Pineapple </li>
+          <li> Cherries </li>
+          <li> Peaches </li>
+          <li> Plums </li>
+          <li> Pomagranite </li>
+    </ul>
+    
+    <h2> Favorite Presidents </h2>
+    <ol> 
+      <li> John F. Kennedy </li>
+      <li> Abraham Lincoln </li>
+      <li> Thomas Jefferson </li>
+      <li> George Washington </li>
+      <li> Woodrow Wilson </li>
+    </ol>
+     
   </body>
 
 </html>
