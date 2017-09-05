@@ -6,18 +6,29 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <title>My First Web Page</title>
   </head>
-<hr>
+
 
   <body>
     <!--  Page content goes here -->
     <h1> Hello World!</h1>
+    <hr>
+    <!-- Write here a paragraph about where you would like to visit -->
       <h2> A Place I Would Like to Visit.</h2>
-    <p> I would absolutly love to visit Australia. I have already visited it with the Colorado Childrens Choral in my eighth grade year but I felt as if it wasn't enough time to see all that I wanted to see. 
-      It's such a peicful place where you rarely see mean face. I love to see their different culture and the way they view things differently then Americans.</p>
-      <h2> A person I admired. </h1>
-      <br>
+    <p> I would absolutly love to visit Australia. I have already 
+    visited it with the Colorado Childrens Choral in my eighth grade year but I felt as if it wasn't enough time to see all that I wanted to see. 
+      It's such a peicful place where you rarely see mean face. I love to see their 
+      different culture and the way they view things differently then Americans.</p>
+      <p> To learn more about Australia,
+      <a href="https://en.wikipedia.org/wiki/Australia" target="_blank">click here!</a>
+      </p>
+     <!-- Writer here a paragraph about who you admire -->
+      <h2> A Person I Admire <br> (past or present) </h1>
     <p> A person I truly admired was my great Uncle. He was a retired U.S. Army Sergeant. He always had little things that was helpful information like how to fold your socks to save more room in your suitecase and different methods to cooking a biscut. 
       He was probably the most respectful and respected man that I have ever known and I always have admired him. </p>
+      <p> To learn more about my Uncle, 
+      <a href="http://www.legacy.com/obituaries/name/clyde-kinnard-obituary?pid=1000000185726665&view=guestbook&page=2" target_blank"> click here!</a>.
+      </p>
+      
     <h2> Favorite Fruits</h2>
         <ul>
           <li> Watermelon </li>
