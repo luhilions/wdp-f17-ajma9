@@ -1,5 +1,6 @@
     a:link { 
       color: blue; 
+      font-weight: bold;
       }
     a:visited {
       color: green; 
